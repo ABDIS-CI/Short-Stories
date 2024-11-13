@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <body>
-      
-      <!--Centered Image Start-->
-      <div style="text-align: center;">
-         <img width="400" src="https://github.com/ABDIS-CI/Short-Stories/blob/main/Salindanaw-2.jpg">
-	
-      </div>
-      <!--Centered Image End-->
-      
-   </body>
-</html>
+<a href="https://example.com">
+  <img src="https://github.com/ABDIS-CI/Short-Stories/blob/main/Salindanaw-2.jpg" alt="Button Image">
+</a>
